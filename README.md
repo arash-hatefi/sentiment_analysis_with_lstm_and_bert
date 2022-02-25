@@ -25,4 +25,4 @@ Step 3: Run data_preprocess.py to preprocess the dataset. It will generate a Pan
 
 step 4: Run word_embedding_process.py for generating the word embedding dictionary for words in the dataset.
 
-Step 4: Use run-BERT.py for training Bert, or run-LSTM.py for training LSTM networks.
+Step 5: Use run-BERT.py for training Bert, or run-LSTM.py for training LSTM networks.
