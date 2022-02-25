@@ -13,7 +13,7 @@ The following models were used for sentiment analysis of a set of tweets:
 The [Sentiment140](http://help.sentiment140.com/) dataset was used for training the models, which contains 1,600,000 tweets extracted using the twitter api. ([Direct download](https://docs.google.com/file/d/0B04GJPshIjmPRnZManQwWEdTZjg/edit?resourcekey=0-betyQkEmWZgp8z0DFxWsHw))
 
 ## Word Embedding
-(GloVe word embedding)[https://nlp.stanford.edu/projects/glove/] (42B version) was used for embedding the tokens for training LSTM models. ([Direct download](http://downloads.cs.stanford.edu/nlp/data/glove.42B.300d.zip))
+[GloVe word embedding](https://nlp.stanford.edu/projects/glove/) (42B version) was used for embedding the tokens for training LSTM models. ([Direct download](http://downloads.cs.stanford.edu/nlp/data/glove.42B.300d.zip))
 
 
 ## Run the code
